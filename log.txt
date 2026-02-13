@@ -1,0 +1,3 @@
+git clone: comando utilizado para copiar um repositório remoto para a máquina local.
+git add: adiciona ficheiros ao staging area, preparando-os para commit.
+git commit: guarda as alterações no histórico do repositório.
